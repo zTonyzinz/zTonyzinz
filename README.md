@@ -1,4 +1,4 @@
-```
+```js
 const tony = {
   name: 'Tony',
   age: 17,
