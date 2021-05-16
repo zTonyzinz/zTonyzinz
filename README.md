@@ -1,3 +1,4 @@
+```
 const tony = {
   name: 'Tony',
   age: 17,
@@ -13,3 +14,4 @@ const tony = {
     'Elementary OS'
   ]
 };
+```
