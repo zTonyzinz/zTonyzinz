@@ -8,7 +8,7 @@ const tony = {
     'HTML', 'JavaScript', 'CSS', 'NodeJS', 'PHP'
   ],
   tools: [
-    'Git', 'Laradock', 'VSCode', 'Sublime'
+    'Git', 'Laradock', 'VSCode', 'Sublime', 'Beekeeper Studio'
   ],
   os: [
     'Ubuntu 20.4'
