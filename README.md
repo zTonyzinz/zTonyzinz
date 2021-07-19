@@ -5,13 +5,13 @@ const tony = {
   location: 'RJ / Brazil',
   readme: 'Full-stack developer',
   stacks: [
-    'HTML', 'JavaScript', 'CSS', 'NodeJS', 'PHP'
+    'HTML', 'JavaScript', 'CSS', 'NodeJS', 'PHP', 'MySQL'
   ],
   tools: [
-    'Git', 'Laradock', 'VSCode', 'Sublime', 'Beekeeper Studio'
+    'Git', 'Laradock', 'VSCode', 'Sublime', 'Beekeeper Studio', 'GitHub Desktop'
   ],
   os: [
-    'Ubuntu 20.4'
+    'Windows 10'
   ]
 };
 ```
