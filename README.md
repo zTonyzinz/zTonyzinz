@@ -11,7 +11,7 @@ const tony = {
     'Git', 'Laradock', 'VSCode', 'Sublime', 'Beekeeper Studio', 'GitHub Desktop'
   ],
   os: [
-    'Elementary OS'
+    'Ubuntu 20.04'
   ]
 };
 ```
