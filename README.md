@@ -1,7 +1,7 @@
 ```js
 const tony = {
   name: 'Tony',
-  age: 17,
+  age: 18,
   location: 'RJ / Brazil',
   readme: 'Full-stack developer',
   stacks: [
@@ -11,6 +11,7 @@ const tony = {
     'Git', 'Laradock', 'VSCode', 'Sublime', 'Beekeeper Studio', 'GitHub Desktop'
   ],
   os: [
+    'Windows 10',
     'Ubuntu 20.04'
   ]
 };
