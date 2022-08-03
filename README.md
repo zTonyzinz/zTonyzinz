@@ -11,8 +11,7 @@ const tony = {
     'Git', 'Laradock', 'VSCode', 'Sublime', 'Beekeeper Studio', 'GitHub Desktop'
   ],
   os: [
-    'Windows 10',
-    'Ubuntu 20.04'
+    'Pop OS 22.04',
   ]
 };
 ```
